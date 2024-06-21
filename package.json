@@ -1,6 +1,6 @@
 {
   "name": "inky-for-vaes",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
   "author": "Foundation <contact@get.foundation> (https://get.foundation)",
   "keywords": [
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "cheerio": "^0.20.0",
-    "foundation-emails": "^2.2.0",
+    "foundation-for-vaes": "^2.5.2",
     "mkdirp": "^0.5.1",
     "object-values": "^1.0.0",
     "through2": "^2.0.0",
